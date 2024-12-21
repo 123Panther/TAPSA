@@ -1,0 +1,26 @@
+# System Files
+AppData/Local/Application Data/
+AppData/Local/ElevatedDiagnostics/
+AppData/Local/History/
+AppData/Local/Temp/
+AppData/LocalLow/
+
+# Python Specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+
+# IDE/Editor Settings
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
